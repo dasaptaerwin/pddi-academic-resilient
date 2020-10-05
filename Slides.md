@@ -1,6 +1,9 @@
 Resilient in academic publishing and dissemination
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/pResxmwUToaA5WXNc8AUIg/badge)](https://hackmd.io/pResxmwUToaA5WXNc8AUIg)
+
 Author: Dasapta Erwin Irawan (ITB/RINarxiv)
 Contributor: All members of Indonesia Open Science Team
 
