@@ -25,6 +25,8 @@ This slides are part of the opinion article for The Conversation Indonesia
 `Resilience in academic/scholarly publishing means ...`
 
 - professionalism, scale, quality, and discoverability & dissemination ([Deville et al, 2019](https://www.liberquarterly.eu/articles/10.18352/lq.10277/))
+- retain rights
+- community-owned, scholar-led
 
 ----
 
@@ -39,26 +41,32 @@ This slides are part of the opinion article for The Conversation Indonesia
 
 - [Radical Open Access Collective](http://radicaloa.disruptivemedia.org.uk/)
 - [COPIM](https://www.copim.ac.uk/)
+- [How much does it cost to run a small scholarly publisher?](https://eve.gd/2017/02/13/how-much-does-it-cost-to-run-a-small-scholarly-publisher/)
 
 ----
 
+- [Leveraging Concepts in Open Access Publications](https://hal.inria.fr/hal-01981922v1/document)
+- [Collectivity and collaboration: imagining new forms of communality to create resilience in scholarled publishing](https://insights.uksg.org/articles/10.1629/uksg.399/print/)
+- [‘Publication favela’ or bibliodiversity? Open access publishing viewed from a European perspective](https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1194)
 
+---
+
+`Open science means`
+
+![](https://i.imgur.com/X52Mf21.png)
+
+[From FOSTER OS](https://www.fosteropenscience.eu/content/what-open-science-introduction)
 
 ----
 
-`Open science means` means
+![](https://i.imgur.com/ZF8mksr.png)
+
+[From FOSTER OS](https://www.fosteropenscience.eu/content/what-open-science-introduction)
+
 
 ---
 
-## What do we need?
-
-- ...
-- ...
-- ...
-
----
-
-## What do we have now?
+## What have we dealt for so long?
 
 ![](https://i.imgur.com/gOqSpiI.png)
 
@@ -68,37 +76,15 @@ This slides are part of the opinion article for The Conversation Indonesia
 
 ----
 
-![](https://i.imgur.com/ooEJ7D0.png)
-
-![Link to tweet2](https://twitter.com/dasaptaerwin/status/1311792925920034818?s=20)
-
-
-----
-
-![](https://i.imgur.com/zSMdVvD.jpg)
-
-![Link to tweet3](https://twitter.com/dasaptaerwin/status/1311793744564289536?s=20)
-
-----
-
 ![](https://i.imgur.com/3ns6y6I.jpg)
 
 ![Link to tweet4](https://twitter.com/dasaptaerwin/status/1311794808281800706?s=20)
 
-
 ----
 
-![](https://i.imgur.com/1oOeyd6.png)
+![](https://i.imgur.com/ooEJ7D0.png)
 
-![Link to tweet5](https://twitter.com/dasaptaerwin/status/1311796804254482432?s=20)
-
-
-----
-
-![](https://i.imgur.com/g3XpGkh.jpg)
-
-![Link to tweet6](https://twitter.com/dasaptaerwin/status/1311797231452733440?s=20)
-
+![Link to tweet2](https://twitter.com/dasaptaerwin/status/1311792925920034818?s=20)
 
 ----
 
@@ -106,19 +92,18 @@ This slides are part of the opinion article for The Conversation Indonesia
 
 ![Link to tweet7](https://twitter.com/dasaptaerwin/status/1311797787978207232?s=20)
 
-----
 
-![](https://twitter.com/dasaptaerwin/status/1311798441970810880?s=20)
+---
 
-![Link to tweet8](https://twitter.com/dasaptaerwin/status/1311798441970810880?s=20)
+## Why haven't we move forward?
 
-----
+![](https://i.imgur.com/HCHMVM4.jpg)
 
-![](https://i.imgur.com/eCV9Q1y.jpg)
-
-![Link to tweet9](https://twitter.com/dasaptaerwin/status/1311799492052623361?s=20)
+![Link to tweet11](https://twitter.com/dasaptaerwin/status/1311800463574982657?s=20)
 
 ----
+
+## Myths over facts
 
 ![](https://i.imgur.com/L6ug356.jpg)
 
@@ -126,32 +111,44 @@ This slides are part of the opinion article for The Conversation Indonesia
 
 ----
 
-![](https://i.imgur.com/HCHMVM4.jpg)
+![](https://i.imgur.com/eCV9Q1y.jpg)
 
-![Link to tweet11](https://twitter.com/dasaptaerwin/status/1311800463574982657?s=20)
+![Link to tweet9](https://twitter.com/dasaptaerwin/status/1311799492052623361?s=20)
+
+---
+
+## What would happen if we don't evolve?
+
+![](https://i.imgur.com/zSMdVvD.jpg)
+
+![Link to tweet3](https://twitter.com/dasaptaerwin/status/1311793744564289536?s=20)
 
 ----
-## Why we haven't move forward?
 
-- ...
-- ...
-- ...
+![](https://i.imgur.com/1oOeyd6.png)
+
+![Link to tweet5](https://twitter.com/dasaptaerwin/status/1311796804254482432?s=20)
+
+----
+
+![](https://i.imgur.com/g3XpGkh.jpg)
+
+![Link to tweet6](https://twitter.com/dasaptaerwin/status/1311797231452733440?s=20)
+
+----
+
+![](https://twitter.com/dasaptaerwin/status/1311798441970810880?s=20)
+
+![Link to tweet8](https://twitter.com/dasaptaerwin/status/1311798441970810880?s=20)
 
 ---
 
-## How do we tackle this?
+## What do we need?
 
-- ...
-- ...
-- ...
+![](https://i.imgur.com/ZLCAovj.jpg)
 
----
+[Link](https://photos.app.goo.gl/Jc6GUHPcx6UGAcay7)
 
-## Or what would happen?
-
-- ...
-- ...
-- ...
 
 ---
 
