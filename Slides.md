@@ -4,8 +4,13 @@ Resilient in academic publishing and dissemination
 
 [![hackmd-github-sync-badge](https://hackmd.io/pResxmwUToaA5WXNc8AUIg/badge)](https://hackmd.io/pResxmwUToaA5WXNc8AUIg)
 
+----
+
+License: ![logo CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)
+
 Author: Dasapta Erwin Irawan (ITB/RINarxiv)
 Contributor: All members of Indonesia Open Science Team
+This slides are part of the opinion article for The Conversation Indonesia
 
 ---
 
@@ -13,7 +18,7 @@ Contributor: All members of Indonesia Open Science Team
 
 ---
 
-## Definition
+## Definitions
 
 ----
 
@@ -35,12 +40,77 @@ Contributor: All members of Indonesia Open Science Team
 
 ## What do we have now?
 
-- ...
-- ...
-- ...
+![](https://i.imgur.com/gOqSpiI.png)
 
----
+![Link to tweet1](https://twitter.com/dasaptaerwin/status/1311792169213018112?s=20)
 
+![Link to original article](https://www.nature.com/articles/d41586-020-02708-4)
+
+----
+
+![](https://i.imgur.com/ooEJ7D0.png)
+
+![Link to tweet2](https://twitter.com/dasaptaerwin/status/1311792925920034818?s=20)
+
+
+----
+
+![](https://i.imgur.com/zSMdVvD.jpg)
+
+![Link to tweet3](https://twitter.com/dasaptaerwin/status/1311793744564289536?s=20)
+
+----
+
+![](https://i.imgur.com/3ns6y6I.jpg)
+
+![Link to tweet4](https://twitter.com/dasaptaerwin/status/1311794808281800706?s=20)
+
+
+----
+
+![](https://i.imgur.com/1oOeyd6.png)
+
+![Link to tweet5](https://twitter.com/dasaptaerwin/status/1311796804254482432?s=20)
+
+
+----
+
+![](https://i.imgur.com/g3XpGkh.jpg)
+
+![Link to tweet6](https://twitter.com/dasaptaerwin/status/1311797231452733440?s=20)
+
+
+----
+
+![](https://i.imgur.com/GvRcx1u.jpg)
+
+![Link to tweet7](https://twitter.com/dasaptaerwin/status/1311797787978207232?s=20)
+
+----
+
+![](https://twitter.com/dasaptaerwin/status/1311798441970810880?s=20)
+
+![Link to tweet8](https://twitter.com/dasaptaerwin/status/1311798441970810880?s=20)
+
+----
+
+![](https://i.imgur.com/eCV9Q1y.jpg)
+
+![Link to tweet9](https://twitter.com/dasaptaerwin/status/1311799492052623361?s=20)
+
+----
+
+![](https://i.imgur.com/L6ug356.jpg)
+
+![Link to tweet10](https://twitter.com/dasaptaerwin/status/1311799861734301697?s=20)
+
+----
+
+![](https://i.imgur.com/HCHMVM4.jpg)
+
+![Link to tweet11](https://twitter.com/dasaptaerwin/status/1311800463574982657?s=20)
+
+----
 ## Why we haven't move forward?
 
 - ...
