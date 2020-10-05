@@ -22,7 +22,27 @@ This slides are part of the opinion article for The Conversation Indonesia
 
 ----
 
-`Resilient in academic/scholarly publishing means ...`
+`Resilience in academic/scholarly publishing means ...`
+
+- professionalism, scale, quality, and discoverability & dissemination ([Deville et al, 2019](https://www.liberquarterly.eu/articles/10.18352/lq.10277/))
+
+----
+
+- Scaling small is an approach that preserves the locality and (biblio)diversity of approaches to publishing while encouraging presses to work together on shared technical, infrastructural and other publishing projects ([Moore, 2020](https://www.samuelmoore.org/2020/09/08/oaspa-panel-on-funding-and-business-mechanisms-for-equitable-open-access/)).
+
+----
+
+- Academic-led publishing (IR, Libraries, etc) ([Adema and Stone, 2017](https://repository.jisc.ac.uk/6666/1/Changing-publishing-ecologies-report.pdf))
+- Scholar-led publishing: Scaling small ([Adema, 2018](https://www.slideshare.net/OpenAIRE_eu/openaire-workshop-beyond-apcs-janneke-adema))
+
+----
+
+- [Radical Open Access Collective](http://radicaloa.disruptivemedia.org.uk/)
+- [COPIM](https://www.copim.ac.uk/)
+
+----
+
+
 
 ----
 
