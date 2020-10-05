@@ -1,4 +1,4 @@
-Resilient in academic publishing and dissemination
+Resilience in academic publishing and dissemination
 ===
 
 
