@@ -1,4 +1,4 @@
-# RESILIENT IN ACADEMIC PUBLISHING
+# RESILIENCE IN ACADEMIC PUBLISHING
 
 Repositori ini menyimpan naskah dan material pendukung untuk presentasi saya pada acara Seminar Internasional PDDI LIPI 7 Oktober 2020. 
 
